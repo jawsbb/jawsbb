@@ -10,6 +10,7 @@ Technical founder. I build AI agents, MCP servers and evals that run in producti
 
 | Project | What it does |
 |---|---|
+| [docs-rag-evals](https://github.com/jawsbb/docs-rag-evals) | RAG over the Supabase docs on Postgres + pgvector, a 70-question eval harness that gates CI, and an MCP search tool. |
 | [agentguard](https://github.com/jawsbb/agentguard) | Checkpoint, detect, recover: a reliability layer for AI agents (loops, timeouts, cost spikes, rollback). Python. |
 | [cache-rules](https://github.com/jawsbb/cache-rules) | Measures your real Claude Code prompt-cache hit rate, tokens and cost from local transcripts. CLI + Claude Code plugin. |
 | [vocali](https://github.com/jawsbb/vocali) | Dictation app for macOS, Windows and Linux: Whisper transcription, LLM cleanup, keys in the OS keychain. |
